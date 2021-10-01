@@ -287,7 +287,7 @@
     "redux": "^4.1.0",
     "redux-thunk": "^2.3.0",
     "regenerator-runtime": "^0.13.8",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.20"
   },
   "devEngines": {
     "node": ">=7.x",
